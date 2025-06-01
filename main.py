@@ -48,7 +48,7 @@ def fun5():
 
 
 if __name__ == "__main__":
-    print("--- Demonstration Script ---")
+    print("--- Demonstration ---")
 
     fun1()
     fun2()
