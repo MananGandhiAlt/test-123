@@ -48,8 +48,6 @@ def fun5():
 
 
 if __name__ == "__main__":
-    print("--- Demonstration ---")
-
     fun1()
     fun2()
     fun3()
