@@ -53,5 +53,3 @@ if __name__ == "__main__":
     fun3()
     fun4()
     fun5()
-
-    print("\n--- End of Demonstration ---")
